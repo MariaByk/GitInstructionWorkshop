@@ -29,6 +29,7 @@
 Готово! Теперь программа должна работать на любом компьютере.
 
 #### Установка git на ваш ПК
+Чтобы установить git на ваш ПК, нужно зайти на сайт *https://docs.microsoft.com/ru-ru/devops/develop/git/install-and-set-up-git*.
 
 ##### Установка в Linux
 
